@@ -1,0 +1,25 @@
+WD MyCloud EX2 Ultra GPL Release History
+
+---------------------------------------------------------------
+2015/12/04	WDMyCloud_Ex2Ultra_GPL_v2.11.120_20151204.tar.gz
+1. first version release, based on firmware My_Cloud_BVBZ_2.11.120.bin
+
+---------------------------------------------------------------
+2016/01/12	WDMyCloud_Ex2Ultra_GPL_v2.11.133_20160112.tar.gz
+1. based on firmware My_Cloud_BVBZ_2.11.133.bin
+
+---------------------------------------------------------------
+2016/03/21	WDMyCloud_Ex2Ultra_GPL_v2.11.140_20160321.tar.gz
+1. based on firmware My_Cloud_BVBZ_2.11.140.bin
+
+---------------------------------------------------------------
+2016/07/11	WDMyCloud_Ex2Ultra_GPL_v2.21.117_20160711.tar.gz
+1. based on firmware My_Cloud_BVBZ_2.21.117.bin
+
+---------------------------------------------------------------
+2016/09/01	WDMyCloud_Ex2Ultra_GPL_v2.21.119_20160901.tar.gz
+1. based on firmware My_Cloud_BVBZ_2.21.119.bin
+
+---------------------------------------------------------------
+2016/11/10	WDMyCloud_Ex2Ultra_GPL_v2.21.126_20161110.tar.gz
+1. based on firmware My_Cloud_BVBZ_2.21.126.bin
